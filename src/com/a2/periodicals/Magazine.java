@@ -143,8 +143,4 @@ public class Magazine extends PaperPublication
 		Magazine magazine4 = null;
 		System.out.println("Magazine1 equal Magazine4 (null)? => " + magazine1.equals(magazine4));
 	}
-	
-	
-
-	
 }

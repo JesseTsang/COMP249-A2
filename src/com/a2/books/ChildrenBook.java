@@ -140,5 +140,4 @@ public class ChildrenBook extends Book
 		ChildrenBook childrenBook4 = null;
 		System.out.println("ChildrenBook1 equal ChildrenBook4 (null)? => " + childrenBook1.equals(childrenBook4));
 	}
-	
 }
